@@ -13,6 +13,8 @@
 		F661A91529C0A4350039B318 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F661A91329C0A4350039B318 /* Main.storyboard */; };
 		F661A91729C0A4380039B318 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F661A91629C0A4380039B318 /* Assets.xcassets */; };
 		F661A91A29C0A4380039B318 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F661A91829C0A4380039B318 /* LaunchScreen.storyboard */; };
+		F661A92229C0A8330039B318 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = F661A92129C0A8330039B318 /* APICaller.swift */; };
+		F661A92429C0B8CE0039B318 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F661A92329C0B8CE0039B318 /* NewsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		F661A91629C0A4380039B318 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F661A91929C0A4380039B318 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F661A91B29C0A4380039B318 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F661A92129C0A8330039B318 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
+		F661A92329C0B8CE0039B318 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				F661A90D29C0A4350039B318 /* AppDelegate.swift */,
 				F661A90F29C0A4350039B318 /* SceneDelegate.swift */,
 				F661A91129C0A4350039B318 /* ViewController.swift */,
+				F661A92129C0A8330039B318 /* APICaller.swift */,
+				F661A92329C0B8CE0039B318 /* NewsTableViewCell.swift */,
 				F661A91329C0A4350039B318 /* Main.storyboard */,
 				F661A91629C0A4380039B318 /* Assets.xcassets */,
 				F661A91829C0A4380039B318 /* LaunchScreen.storyboard */,
@@ -140,7 +146,9 @@
 			files = (
 				F661A91229C0A4350039B318 /* ViewController.swift in Sources */,
 				F661A90E29C0A4350039B318 /* AppDelegate.swift in Sources */,
+				F661A92429C0B8CE0039B318 /* NewsTableViewCell.swift in Sources */,
 				F661A91029C0A4350039B318 /* SceneDelegate.swift in Sources */,
+				F661A92229C0A8330039B318 /* APICaller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
