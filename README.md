@@ -1,7 +1,7 @@
 # Tidings App 
 
 News application created with data pulled from NewsAPI.
-
+Create a news app.
 
 * 
 ![IMG_1548](https://user-images.githubusercontent.com/69680103/225356082-5991082e-891a-4abc-aec8-dedde803ccad.jpg)
