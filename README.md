@@ -1,4 +1,4 @@
-# Tidings App 
+Tidings App 
 
 News application created with data pulled from NewsAPI.
 Create a news app.
